@@ -1,3 +1,5 @@
 python-dotenv
 ipykernel
 openai-agents
+openai
+ipython
