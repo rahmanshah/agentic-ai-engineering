@@ -3,3 +3,8 @@ ipykernel
 openai-agents
 openai
 ipython
+kagglehub
+pandas
+duckdb
+pyarrow
+matplotlib
